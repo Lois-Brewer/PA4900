@@ -1,0 +1,7 @@
+Contians all the code for AFC3DNet. 
+
+Original Paper: https://arxiv.org/ftp/arxiv/papers/2302/2302.05109.pdf
+Original GitHub: https://github.com/wm-Githuber/AFCF3D-Net 
+
+Follow the instructions in the original repository to understand how to set this up. However, if you wish to use this repository, I have successfuly managed to train 
+this algorithm on the LEVIR-CD Dataset. It focuses on urban change detection.
